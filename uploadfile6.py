@@ -6,7 +6,7 @@ url = "https://upload.box.com/api/2.0/files/content"
 
 headers = {
 
-  'Authorization': 'Bearer XWk65QJ9oiQ3jcPAhmd3rPlpjp1tp2Ib',
+  'Authorization': 'Bearer ',
   'Cookie': 'box_visitor_id=60c6a289be7b72.52458416; site_preference=desktop'
 }
 # put folder id as id
