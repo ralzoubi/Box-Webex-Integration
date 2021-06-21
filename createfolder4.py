@@ -17,7 +17,7 @@ payload = json.dumps({
 }) % roomName
 headers = {
   'Content-Type': 'application/json',
-  'Authorization': 'Bearer XWk65QJ9oiQ3jcPAhmd3rPlpjp1tp2Ib',
+  'Authorization': 'Bearer ',
   'Cookie': 'box_visitor_id=60c6a289be7b72.52458416'
 }
 
